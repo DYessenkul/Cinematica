@@ -1,9 +1,8 @@
 # Cinematica
 Movie app using Kingfisher and Alamofire
 
-![WhatsApp Image 2023-01-18 at 18 29 46](https://user-images.githubusercontent.com/121435424/216345720-ce905b3b-859f-4748-af2f-3f3e84d73390.jpeg)
-![WhatsApp Image 2023-01-18 at 18 29 46 (1)](https://user-images.githubusercontent.com/121435424/216345734-f7a57074-50eb-4de9-a711-424880a685ea.jpeg)
-![WhatsApp Image 2023-01-18 at 18 29 46 (2)](https://user-images.githubusercontent.com/121435424/216345748-e03cc024-be9f-40a2-85d0-f30d46dee9fe.jpeg)
-![WhatsApp Image 2023-01-18 at 18 29 46 (3)](https://user-images.githubusercontent.com/121435424/216345767-41e6ea65-7219-4750-8b70-4670ef9616b4.jpeg)
-![WhatsApp Image 2023-01-18 at 18 29 46 (4)](https://user-images.githubusercontent.com/121435424/216345777-7f067636-e8f9-4922-9ee5-328dbf4b54a1.jpeg)
-![WhatsApp Image 2023-01-18 at 18 29 46 (5)](https://user-images.githubusercontent.com/121435424/216345789-1e430e84-0e9e-4078-b253-83967e988ac4.jpeg)
+<img width="331" alt="Снимок экрана 2023-02-26 в 21 13 05" src="https://user-images.githubusercontent.com/121435424/221419312-657528e7-8191-4815-9b7c-cacb57b2e124.png">
+<img width="329" alt="Снимок экрана 2023-02-26 в 21 13 39" src="https://user-images.githubusercontent.com/121435424/221419321-5a050768-1ab8-4c2b-ab83-ef73841c5f55.png">
+<img width="329" alt="Снимок экрана 2023-02-26 в 21 13 21" src="https://user-images.githubusercontent.com/121435424/221419326-3aab3e99-1ede-4d48-b8bc-a3e430606fe0.png">
+<img width="327" alt="Снимок экрана 2023-02-26 в 21 13 52" src="https://user-images.githubusercontent.com/121435424/221419333-3c33f3ef-e66c-4d98-abf8-daf94e2aa0c1.png">
+<img width="333" alt="Снимок экрана 2023-02-26 в 21 14 04" src="https://user-images.githubusercontent.com/121435424/221419335-b8ee8a6f-5ec3-41d7-b08c-6b59e45f2bf3.png">
