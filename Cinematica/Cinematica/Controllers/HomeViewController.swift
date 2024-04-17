@@ -25,9 +25,14 @@ class HomeViewController: UIViewController, UICollectionViewDelegate, UICollecti
 
     
     
-    override func viewDidLoad() {
+   override func viewDidLoad() {
         super.viewDidLoad()
-    
+        networkManager.upcomingDelegate = self
+        networkManager.topRatedDelegate = self
+        networkManager.trendingTvDelegate = self
+        networkManager.getUpcomingMovie()
+        networkManager.getTopRatedMovie()
+        networkManager.getTrendingTv()
         view.backgroundColor = UIColor(red: 16/255.0, green: 14/255.0, blue: 42/255.0, alpha: 1)
         mainImage.image = UIImage(named: "avatar")
         mainImage.layer.opacity = 0.95
@@ -42,12 +47,6 @@ class HomeViewController: UIViewController, UICollectionViewDelegate, UICollecti
         trendingTvCollectionView.delegate = self
         trendingTvCollectionView.backgroundColor = UIColor(red: 23/255.0, green: 21/255.0, blue: 56/255.0, alpha: 1)
 
-        networkManager.upcomingDelegate = self
-        networkManager.topRatedDelegate = self
-        networkManager.trendingTvDelegate = self
-        networkManager.getUpcomingMovie()
-        networkManager.getTopRatedMovie()
-        networkManager.getTrendingTv()
       
         overrideUserInterfaceStyle = .dark
         
