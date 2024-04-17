@@ -1,6 +1,8 @@
 # Cinematica
-Movie app using Kingfisher and Alamofire
-Using MovieDB api
+Movie app
+Technologies used:
+Kingfisher 
+Alamofire
 
 
 <img width="331" alt="Снимок экрана 2023-02-26 в 21 13 05" src="https://user-images.githubusercontent.com/121435424/221419312-657528e7-8191-4815-9b7c-cacb57b2e124.png"><img width="329" alt="Снимок экрана 2023-02-26 в 21 13 39" src="https://user-images.githubusercontent.com/121435424/221419321-5a050768-1ab8-4c2b-ab83-ef73841c5f55.png">
